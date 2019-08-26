@@ -69,9 +69,9 @@ Make that change and run the program again. To end any Python program, you can t
 
 
 Open main9.py. What is happening on line 12? 
-
+It's another conditional command or something
 What is the purpose of “count”? 
-
+to see how many inputs there have been
 What is happening on line 22? 
 
 Run the program.
