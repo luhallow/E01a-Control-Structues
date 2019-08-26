@@ -12,6 +12,7 @@ color = color.lower().strip()
 if (color == 'red'):
     print('Correct!')
 elif (color == 'pink'):
+    
     print('Close!')
 else:
     print('Sorry, try again.')
