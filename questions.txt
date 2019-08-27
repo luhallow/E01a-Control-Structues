@@ -73,7 +73,7 @@ It's another conditional command or something
 What is the purpose of “count”? 
 to see how many inputs there have been
 What is happening on line 22? 
-
+It is returning how many times you entered an answer 
 Run the program.
 
 
@@ -81,4 +81,5 @@ Run the program.
 
 Commit your changes and push them back to the repository. 
 
-Did you do the extra credit?
+Did you do the extra credit? 
+ Yes I did the extra credit
